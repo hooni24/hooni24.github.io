@@ -4,5 +4,14 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+> Hello World. Hello Java. Hello Nodejs. 
+
+인사성 바른 개발하는 인문학도 Helloman의 블로그 입니다.
+
+컴퓨터를 처음 배울 때 컴퓨터와 인사를 주고 받았던 기억이 강렬하게 남아 있어요.
+
+그 이후로 매일 컴퓨터와 일하고 있지만 결국 일은 사람이 하는 것이라는 생각을 항상 가지고 있으며, 어떻게 하면 사람들과 더 즐겁게 일할 수 있을까를 고민하고 있습니다.
+
+세상만사의 동작 방식은 알아야 직성이 풀리고, 고장난 기계는 일단 뜯어서 직접 고쳐본 다음에 A/S 맡겨도 늦지 않았다고 생각하는 편입니다.
+
+제 일기장을 찾아와 주셔서 감사합니다. 원하시는 바 얻어가시길 바랍니다.
